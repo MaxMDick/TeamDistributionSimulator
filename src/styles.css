@@ -1,1 +1,25 @@
-/* You can add global styles to this file, and also import other style files */
+html {
+    background-color: darkslategray;
+}
+
+#queueHolder {
+    color: white;
+}
+
+.playerDiv {
+    margin: 0px;
+    padding: 0px;
+}
+
+.playerP {
+    margin: 0px;
+    padding: 0px;
+}
+
+div {
+    margin: 0px;
+}
+
+.legend {
+    color: white;
+}
